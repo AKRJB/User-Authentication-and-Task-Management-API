@@ -1,0 +1,26 @@
+{
+  "name": "task-management-api",
+  "version": "1.0.0",
+  "description": "user auth and task management api with CRUD functionality, use express.js framework to build api with MongoDB database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKRJB/User-Authentication-and-Task-Management-API.git"
+  },
+  "keywords": [
+    "javaScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Mongoose"
+  ],
+  "author": "Alakh Kaler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKRJB/User-Authentication-and-Task-Management-API/issues"
+  },
+  "homepage": "https://github.com/AKRJB/User-Authentication-and-Task-Management-API#readme"
+}
